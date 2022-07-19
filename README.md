@@ -1,10 +1,10 @@
 Hi 👋 My name is Wielfried Zouantcha
 ====================================
 
-Web Developer - Frontend focused
+Developer - Blockchain focused
 --------------------------------
 
-I'm a self taught web developer currently learning Solidity and building interfaces for smart contracts. Previously, I worked as Frontend Developer at SaaSAlerts, a startup building security monitoring tools for Managed Service Providers(MSPs). I also performed extensive internal/external API research and documentation during my time at SA.
+I'm a self taught software developer currently learning Solidity and building interfaces for smart contracts. Previously, I worked as Frontend Developer at SaaSAlerts, a startup building security monitoring tools for Managed Service Providers(MSPs). I also performed extensive internal/external API research and documentation during my time at SA.
 
 * 🌍  I'm based in Washington DC
 * 🖥️  See my portfolio at [Buildspace](http://app.buildspace.so/profile/07614a00-cd29-4d8f-acf8-a24cc57edc32)
@@ -42,15 +42,3 @@ I'm a self taught web developer currently learning Solidity and building interfa
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/zouantchaw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wielfried-zouantcha-6b4722136/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/love_thegame_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/zouantchaw"><img src="https://activity-graph.herokuapp.com/graph?username=zouantchaw&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/zouantchaw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zouantchaw&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/zouantchaw6"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
