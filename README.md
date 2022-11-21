@@ -8,7 +8,7 @@ I'm a self taught software developer currently learning Solidity and building in
 
 * 🌍  I'm based in Washington DC
 * 🖥️  See my portfolio at [Buildspace](http://app.buildspace.so/profile/07614a00-cd29-4d8f-acf8-a24cc57edc32)
-* ✉️  You can contact me at [wiel@ethosnft.com](mailto:wiel@ethosnft.com)
+* ✉️  You can contact me at [zouantchaw74@gmial.com](mailto:zouantchaw74@gmial.com)
 * 🤝  I'm open to collaborating on cool shit
 
 ### Skills
