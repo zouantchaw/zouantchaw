@@ -1,10 +1,10 @@
 Hi 👋 My name is Wielfried Zouantcha
 ====================================
 
-Developer - Blockchain focused
+Developer - Blockchain & Frontend focused
 --------------------------------
 
-I'm a self taught software developer currently learning Solidity and building interfaces for smart contracts. I currently work at ethos, where I write nft specific smart contrtacts for brands on different blockchains like Ethereum and Flow. Previously, I worked as frontend dev at SaaSAlerts, a startup building security monitoring tools for Managed Service Providers(MSPs).
+I'm a self taught software developer currently learning Solidity and building interfaces for smart contracts. I'm currently under contract at ethos, where I write nft specific smart contrtacts for brands on different blockchains like Ethereum and Flow. Previously, I worked as frontend dev at SaaSAlerts, a startup building security monitoring tools for Managed Service Providers(MSPs).
 
 * 🌍  I'm based in Washington DC
 * 🖥️  See my blog/portfolio at [lovethegame.eth.limo](http://lovethegame.eth.limo)
