@@ -1,4 +1,4 @@
-Self taught software developer currently learning Solidity and building interfaces for smart contracts. I'm currently under contract at ethos, where I write nft specific smart contrtacts for brands on different blockchains like Ethereum and Flow. Previously, I worked as frontend dev at SaaSAlerts, a startup building security monitoring tools for Managed Service Providers(MSPs).
+Self taught software developer currently learning Solidity and building interfaces for smart contracts. I'm currently under contract at [ethos](https://www.ethosnft.com/), where I write nft specific smart contrtacts for brands on different blockchains like Ethereum and Flow. Previously, I worked as frontend dev at [saasalerts](https://www.ethosnft.com/), a startup building security monitoring tools for Managed Service Providers(MSPs).
 
 * 🌍  I'm based in Washington DC
 * 🖥️  See my blog/portfolio at [lovethegame.eth.limo](http://lovethegame.eth.limo)
