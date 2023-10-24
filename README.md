@@ -2,7 +2,7 @@ Self taught software developer currently learning Solidity and building interfac
 
 * 🌍  I'm based in Washington DC
 * 🖥️  See my blog/portfolio at [lovethegame.eth.limo](http://lovethegame.eth.limo)
-* ✉️  You can contact me at [zouantchaw74@gmial.com](mailto:zouantchaw74@gmial.com)
+* ✉️  You can contact me on [twitter/X](https://twitter.com/love_thegame_)
 * 🤝  I'm open to collaborating on cool shit
 
 ### Skills
