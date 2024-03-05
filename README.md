@@ -1,7 +1,11 @@
-Self taught software developer currently learning Solidity and building interfaces for smart contracts. I'm currently under contract at [ethos](https://www.ethosnft.com/), where I write nft specific smart contracts for brands on different blockchains like Ethereum and Flow. Previously, I worked as frontend dev at [saasalerts](https://saasalerts.com/), a startup building security monitoring tools for Managed Service Providers(MSPs).
+Hi, I'm Wiel 👋🏾
+
+I'm currently a full-stack developer at [ethos](https://www.heyethos.com) where I help build the future of customer loyalty.
+
+Prior to ethos, I worked as a frontend developer at [saasalerts](https://saasalerts.com/), a security monitoring platform for Managed Service Providers(MSPs).
 
 * 🌍  I'm based in Washington DC
-* 🖥️  See my blog/portfolio at [lovethegame.eth.limo](http://lovethegame.eth.limo)
+* 🖥️  See my blog/portfolio at [zouantcha.com](https://www.zouantcha.com/)
 * ✉️  You can contact me on [twitter/X](https://twitter.com/love_thegame_)
 * 🤝  I'm open to collaborating on cool shit
 
