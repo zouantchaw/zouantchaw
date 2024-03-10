@@ -6,7 +6,7 @@ Prior to ethos, I worked as a frontend developer at [saasalerts](https://saasale
 
 * 🌍  I'm based in Washington DC
 * 🖥️  See my blog/portfolio at [zouantcha.com](https://www.zouantcha.com/)
-* ✉️  You can contact me on [twitter/X](https://twitter.com/love_thegame_)
+* ✉️  You can contact me on **X/Twitter** [dm.new/lovethegame](https://dm.new/lovethegame)
 * 🤝  I'm open to collaborating on cool shit
 
 ### Skills
