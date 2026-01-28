@@ -9,6 +9,7 @@ Full stack engineer. I build data-heavy applications end-to-end.
   - [Ballerz Football Academy](https://www.ballerzfootballacademy.com/) - Scheduling and payout platform for 100+ monthly sessions.
 
 🌍 Washington DC
+
 🖥️ [zouantcha.com](https://zouantcha.com)
 
 ### Skills
