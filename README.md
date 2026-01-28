@@ -1,13 +1,15 @@
-Hi, I'm Wiel 👋🏾
+### Hi, I'm Wiel 👋🏾
 
-I'm currently a full-stack developer at [ethos](https://www.heyethos.com) where I help build the future of customer loyalty.
+Full stack engineer. I build data-heavy applications end-to-end.
 
-Prior to ethos, I worked as a frontend developer at [saasalerts](https://saasalerts.com/), a security monitoring platform for Managed Service Providers(MSPs).
+**Recent work:**
+  - [Port Observatory MTL](https://port-observatory-mtl.vercel.app/) - Real-time maritime data platform. AIS vessel tracking, DETR + LLaVA on port webcams, 175K+ snapshots. TypeScript, Next.js, Cloudflare Workers.
+  - [Montreal Archives Search](https://www.mtlarchives.com/) - Search engine over 14,822 historical photos. Keyword, semantic (BGE), and visual (CLIP) search. 8-stage ETL pipeline. [Repo](https://github.com/zouantchaw/mtl-archives-search)
+  - [Diane Party Rentals](https://www.dianepartyrentals.com/) - Custom ERP replacing paper workflows. Automated quoting, inventory locking, Stripe payments.
+  - [Ballerz Football Academy](https://www.ballerzfootballacademy.com/) - Scheduling and payout platform for 100+ monthly sessions.
 
-* 🌍  I'm based in Washington DC
-* 🖥️  See my blog/portfolio at [zouantcha.com](https://www.zouantcha.com/)
-* ✉️  You can contact me on **X/Twitter** [dm.new/lovethegame](https://dm.new/lovethegame)
-* 🤝  I'm open to collaborating on cool shit
+🌍 Washington DC
+🖥️ [zouantcha.com](https://zouantcha.com)
 
 ### Skills
 
