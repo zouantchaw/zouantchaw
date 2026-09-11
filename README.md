@@ -1,12 +1,15 @@
 ### Hi, I'm Wiel 👋🏾
 
-Full stack engineer. I build data-heavy applications end-to-end.
+**Software Engineer | Product, Data & AI**
+
+I build software products across interfaces, backend systems, and data pipelines. My work includes client projects and independent research into search and vision models.
 
 **Recent work:**
-  - [Port Observatory MTL](https://port-observatory-mtl.vercel.app/) - Real-time maritime data platform. AIS vessel tracking, DETR + LLaVA on port webcams, 175K+ snapshots. TypeScript, Next.js, Cloudflare Workers.
-  - [Montreal Archives Search](https://www.mtlarchives.com/) - Search engine over 14,822 historical photos. Keyword, semantic (BGE), and visual (CLIP) search. 8-stage ETL pipeline. [Repo](https://github.com/zouantchaw/mtl-archives-search)
-  - [Diane Party Rentals](https://www.dianepartyrentals.com/) - Custom ERP replacing paper workflows. Automated quoting, inventory locking, Stripe payments.
-  - [Ballerz Football Academy](https://www.ballerzfootballacademy.com/) - Scheduling and payout platform for 100+ monthly sessions.
+
+- [PortMind](https://www.portmind.dev/): Independent research into what vision models can reliably infer from public port imagery. Collection pipelines, model evaluations, and tools for reviewing images and evidence. [Case study](https://zouantcha.com/case-studies/portmind)
+- [MTL Archives](https://www.mtlarchives.com/): A searchable collection of 13,499 archival records, a visual explorer, and an automated editorial system. Built with Python, TypeScript, and Cloudflare. [Case study](https://zouantcha.com/case-studies/mtl-archives) · [Repo](https://github.com/zouantchaw/mtl-archives-search)
+- [Diane Party Rentals](https://www.dianepartyrentals.com/): Brand, website, online booking, and Stripe payments for a family-operated rental business moving from manual workflows to connected operations. [Case study](https://zouantcha.com/case-studies/diane-party-rentals)
+- [Starthome](https://zouantcha.com/case-studies/starthome): A mobile inspection application for Québec, built with React Native, Expo, and Cloudflare. Photographs, findings, review, and signed reports in one fieldwork flow.
 
 🌍 Washington DC
 
