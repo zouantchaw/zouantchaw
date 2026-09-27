@@ -2,7 +2,9 @@
 
 **Full-Stack Software Engineer | React, TypeScript, Node.js**
 
-I build software products across interfaces, backend systems, and data pipelines. My work includes client projects and independent research into search and vision models.
+Full-stack software engineer building production applications across workforce software, multi-tenant commerce, security
+integrations, and data-intensive products. Owns work end to end - from ambiguous requirements and customer feedback through
+frontend, APIs, data, deployment, and production troubleshooting - with additional depth in search and applied AI.
 
 **Recent work:**
 
