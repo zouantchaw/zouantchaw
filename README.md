@@ -1,6 +1,6 @@
 ### Hi, I'm Wiel 👋🏾
 
-**Software Engineer | Product, Data & AI**
+**Full-Stack Software Engineer | React, TypeScript, Node.js**
 
 I build software products across interfaces, backend systems, and data pipelines. My work includes client projects and independent research into search and vision models.
 
