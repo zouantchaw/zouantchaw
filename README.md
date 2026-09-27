@@ -1,7 +1,3 @@
-### Hi, I'm Wiel 👋🏾
-
-**Full-Stack Software Engineer | React, TypeScript, Node.js**
-
 Full-stack software engineer building production applications across workforce software, multi-tenant commerce, security
 integrations, and data-intensive products. Owns work end to end - from ambiguous requirements and customer feedback through
 frontend, APIs, data, deployment, and production troubleshooting - with additional depth in search and applied AI.
